@@ -1,6 +1,7 @@
 {
   "name": "task",
   "version": "0.0.1",
+  "type": "module",
   "scripts": {
     "dev:server": "pnpm -C ./server run dev",
     "dev:app": "pnpm -C ./app run dev",

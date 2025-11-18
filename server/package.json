@@ -1,6 +1,4 @@
 {
-  "name": "nitro-app",
-  "private": true,
   "scripts": {
     "build": "nitro build",
     "dev": "PORT=3001 nitro dev",
