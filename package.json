@@ -1,0 +1,8 @@
+{
+  "name": "task",
+  "version": "0.0.1",
+  "scripts": {},
+  "author": "Soheil Nazari <kontakt@soheilnazari.de>",
+  "license": "Apache-2.0",
+  "packageManager": "pnpm@10.22.0"
+}
