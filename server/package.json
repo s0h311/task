@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "build": "nitro build",
-    "dev": "nitro dev",
+    "dev": "PORT=3001 nitro dev",
     "preview": "node .output/server/index.mjs"
   },
   "devDependencies": {
