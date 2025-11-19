@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "nitro build",
-    "dev": "PORT=3001 nitro dev",
+    "dev": "HOST=0.0.0.0 PORT=3001 nitro dev",
     "preview": "node .output/server/index.mjs"
   },
   "devDependencies": {

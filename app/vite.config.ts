@@ -14,7 +14,7 @@ export default defineConfig({
     host: "0.0.0.0",
     port: 3000,
     proxy: {
-      "/api": "0.0.0.0:3001",
+      "/api": "http://0.0.0.0:3001",
     },
   },
 });
