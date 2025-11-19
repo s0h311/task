@@ -1,0 +1,15 @@
+.vscode
+.idea
+
+node_modules
+.nitro
+.output
+dist
+
+.DS_Store
+
+.env
+
+*.yaml
+*.json
+*.d.ts
